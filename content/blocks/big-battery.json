@@ -1,1 +1,12 @@
-
+{
+    "type": "Battery",
+    "category": "power",
+    "buildVisibility": "shown",
+    "size": 9,
+    "health": 3000,
+    "emptyLightColor": "#000000",
+    "fullLightColor": "#ff3eee",
+    "consumes": {
+        "powerBuffered": 1000000000
+    }
+}
