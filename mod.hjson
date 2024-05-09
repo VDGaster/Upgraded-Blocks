@@ -1,0 +1,8 @@
+name: "upd-blocks"
+displayName: "Upgraded Blocks"
+author: VDGaster
+description: ""
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
