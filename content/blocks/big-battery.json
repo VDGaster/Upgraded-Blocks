@@ -4,11 +4,19 @@
     "name": "Ultra Battery",
     "description": "Battery that better than all batteries, can contain [purple]kM of Energy",
     "buildVisibility": "shown",
-    "size": 9,
+    "size": 12,
     "health": 3000,
     "emptyLightColor": "#000000",
     "fullLightColor": "#ff0000",
     "consumes": {
         "powerBuffered": 1000000000
-    }
+    },
+    "buildCost": 1200,
+    "requirements": [
+        copper/2500
+        lead/2000
+        titanium/1500
+        thorium/500
+        silicon/750
+    ]
 }
