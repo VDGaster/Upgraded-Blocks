@@ -19,5 +19,15 @@
         {"item": "thorium","amount":500},
         {"item": "silicon","amount":750}
     ],
-    "research": "battery-large"
+    "research": {
+        "parent": "battery-large",
+        "requirements": [
+        {"item": "copper","amount":1500},
+        {"item": "lead","amount":1000},
+        {"item": "titanium","amount":500},
+        {"item": "thorium","amount":50},
+        {"item": "silicon","amount":75}
+        ]
+    }
+}
 }
