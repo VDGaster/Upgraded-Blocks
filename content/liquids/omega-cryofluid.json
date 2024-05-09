@@ -7,4 +7,5 @@
 "flammability": 0,
 "temperature": 0,
 "coolant": true,
-"research": "cryofluid"
+"research": "cryofluid",
+"effects": "freezing"
