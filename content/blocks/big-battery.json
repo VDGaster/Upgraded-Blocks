@@ -1,11 +1,13 @@
 {
     "type": "Battery",
     "category": "power",
+    "name": "Ultra Battery",
+    "description": "Battery that better than all batteries, can contain [purple]kM of Energy
     "buildVisibility": "shown",
     "size": 9,
     "health": 3000,
     "emptyLightColor": "#000000",
-    "fullLightColor": "#ff3eee",
+    "fullLightColor": "#ff0000",
     "consumes": {
         "powerBuffered": 1000000000
     }
