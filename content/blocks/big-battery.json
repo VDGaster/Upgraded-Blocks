@@ -2,7 +2,7 @@
     "type": "Battery",
     "category": "power",
     "name": "Ultra Battery",
-    "description": "Battery that better than all batteries, can contain [purple]kM of Energy
+    "description": "Battery that better than all batteries, can contain [purple]kM of Energy",
     "buildVisibility": "shown",
     "size": 9,
     "health": 3000,
