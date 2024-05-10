@@ -1,8 +1,0 @@
-name: "upd-blocks"
-displayName: "Upgraded Blocks"
-author: VDGaster
-description: "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
-version: "1.0"
-minGameVersion: "146"
-dependencies: [ ]
-hidden: false
