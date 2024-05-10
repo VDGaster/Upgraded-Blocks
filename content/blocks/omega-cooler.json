@@ -3,4 +3,6 @@
 "description": "Cools Cryofluid to get omega cryofluid",
 "hasPower": true,
 "hasLiquid": true,
-"liquidCapacity": 500
+"liquidCapacity": 500,
+"craftTime": 80.0,
+"outputLiquid": {}
