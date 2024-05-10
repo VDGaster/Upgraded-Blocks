@@ -1,0 +1,6 @@
+"type": "omCooler",
+"name": "Omega Cooler",
+"description": "Cools Cryofluid to get omega cryofluid",
+"hasPower": true,
+"hasLiquid": true,
+"liquidCapacity": 500
