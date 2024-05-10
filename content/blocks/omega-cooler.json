@@ -1,8 +1,11 @@
+{
 "type": "omCooler",
 "name": "Omega Cooler",
 "description": "Cools Cryofluid to get omega cryofluid",
+"size": 4,
 "hasPower": true,
 "hasLiquid": true,
 "liquidCapacity": 500,
 "craftTime": 80.0,
-"outputLiquid": {}
+"outputLiquid": {"liquid": "omega-cryofluid", "amount": 10}
+}
