@@ -13,8 +13,8 @@
   {"item":"plastanium","amount": 150}
 ],
 "consumes": {
-  "power": 300,
-  "liquids": [{"liquid": "cryofluid","amount": 50}]
+  "power": 30,
+  "liquid": {"liquid": "cryofluid","amount": 50}
 },
 "outputLiquid": {"liquid": "omega-cryofluid", "amount": 10},
 "category": "crafting"
