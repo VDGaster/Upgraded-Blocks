@@ -5,7 +5,6 @@
 "size": 4,
 "hasPower": true,
 "hasLiquid": true,
-"liquidCapacity": 5,
 "craftTime": 80.0,
 "updateEffect": "smeltsmoke",
 "requirements": [
@@ -15,8 +14,8 @@
 ],
 "consumes": {
   "power": 3,
-  "liquid": {"liquid": "cryofluid","amount": 5}
+  "liquid": {"liquid": "cryofluid","amount": 2}
 },
-"outputLiquid": {"liquid": "omega-cryofluid", "amount": 1},
+"outputLiquid": {"liquid": "omega-cryofluid", "amount": 2},
 "category": "crafting"
 }
