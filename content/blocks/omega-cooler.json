@@ -17,5 +17,6 @@
   "liquid": {"liquid": "cryofluid","amount": 0.2}
 },
 "outputLiquid": {"liquid": "omega-cryofluid", "amount": 0.2},
-"category": "crafting"
+"category": "crafting",
+"research": "battery-big"
 }
