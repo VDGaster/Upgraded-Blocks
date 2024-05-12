@@ -5,7 +5,7 @@
 "size": 4,
 "hasPower": true,
 "hasLiquid": true,
-"craftTime": 80.0,
+"craftTime": 60,
 "updateEffect": "smeltsmoke",
 "requirements": [
   {"item":"titanium","amount": 350},
@@ -14,8 +14,8 @@
 ],
 "consumes": {
   "power": 3,
-  "liquid": {"liquid": "cryofluid","amount": 2}
+  "liquid": {"liquid": "cryofluid","amount": 0.2}
 },
-"outputLiquid": {"liquid": "omega-cryofluid", "amount": 2},
+"outputLiquid": {"liquid": "omega-cryofluid", "amount": 0.2},
 "category": "crafting"
 }
