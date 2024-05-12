@@ -16,6 +16,6 @@
   "power": 300,
   "liquids": [{"liquid": "cryofluid","amount": 50}]
 },
-"outputLiquid": {"liquid": "omega-cryofluid", "amount": 10}
+"outputLiquid": {"liquid": "omega-cryofluid", "amount": 10},
 "category": "crafting"
 }
