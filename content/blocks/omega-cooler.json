@@ -1,5 +1,5 @@
 {
-"type": "omCooler",
+"type": "GenericCrafter",
 "name": "Omega Cooler",
 "description": "Cools Cryofluid to get omega cryofluid",
 "size": 4,
