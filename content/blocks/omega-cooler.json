@@ -6,7 +6,7 @@
 "hasPower": true,
 "hasLiquid": true,
 "craftTime": 60,
-"updateEffect": "smeltsmoke",
+"updateEffect": "freezing",
 "requirements": [
   {"item":"titanium","amount": 350},
   {"item":"silicon","amount": 500},
