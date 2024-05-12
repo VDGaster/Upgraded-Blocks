@@ -6,8 +6,8 @@
 "flammability": 0,
 "temperature": 0,
 "heatCapacity": 0.0,
-"viscosity": 0.5,
-"explosiveness": 3.0,
+"viscosity": 0.0,
+"explosiveness": 0.0,
 "coolant": true,
 "research": "cryofluid",
 "effects": "freezing"
