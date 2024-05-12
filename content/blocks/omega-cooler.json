@@ -5,7 +5,7 @@
 "size": 4,
 "hasPower": true,
 "hasLiquid": true,
-"liquidCapacity": 500,
+"liquidCapacity": 5,
 "craftTime": 80.0,
 "updateEffect": "smeltsmoke",
 "requirements": [
@@ -14,9 +14,9 @@
   {"item":"plastanium","amount": 150}
 ],
 "consumes": {
-  "power": 30,
-  "liquid": {"liquid": "cryofluid","amount": 50}
+  "power": 3,
+  "liquid": {"liquid": "cryofluid","amount": 5}
 },
-"outputLiquid": {"liquid": "omega-cryofluid", "amount": 10},
+"outputLiquid": {"liquid": "omega-cryofluid", "amount": 1},
 "category": "crafting"
 }
