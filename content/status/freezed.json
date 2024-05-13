@@ -7,7 +7,7 @@
 "applyColor": "ffffff",
 "applyEffect": "freezing",
 "opposites": [
-  "smelting"
+  "melting"
 ],
 "affinities": [
   "freezing"
