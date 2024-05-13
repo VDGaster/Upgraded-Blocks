@@ -11,7 +11,7 @@
 "explosiveness": 0.0,
 "coolant": true,
 "research": "cryofluid",
-"effect": "freezing",
+"effect": "freezed",
 "particleEffect": "freezing",
 "heatCapacity": 10,
 "particleSpacing": 1,
