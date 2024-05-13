@@ -8,7 +8,7 @@
 "craftTime": 60,
 "updateEffect": "freezing",
   "drawer":[{"type":"drawRegion","suffix":"-bottom"},
-{"type":"drawLiquid"},
+{"type":"drawLiquid","suffix":"-liquid"},
 {"type":"drawWeave"},{"type":"drawDefault"}
 ],
 "requirements": [
