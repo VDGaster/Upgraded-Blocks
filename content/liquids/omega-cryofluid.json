@@ -13,5 +13,7 @@
 "research": "cryofluid",
 "effects": "freezing",
 "particleEffect": "freezing",
-"heatCapacity": 10
+"heatCapacity": 10,
+"particleSpacing": 1,
+"boilPoint": 1000
 }
