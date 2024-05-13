@@ -1,1 +1,9 @@
-
+{
+"name":"[blue]Freezed",
+"speedMultiplier": 0,
+"healthMultiplier": 0.1,
+"disarm": true,
+"effect": "freezing",
+"applyColor": "ffffff",
+"applyEffect": "freezing"
+}
