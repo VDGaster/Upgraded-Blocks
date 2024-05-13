@@ -5,5 +5,11 @@
 "disarm": true,
 "effect": "freezing",
 "applyColor": "ffffff",
-"applyEffect": "freezing"
+"applyEffect": "freezing",
+"opposites": [
+  "smelting"
+],
+"affinities": [
+  "freezing"
+],
 }
