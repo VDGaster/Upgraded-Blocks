@@ -6,6 +6,7 @@
 "effect": "freezing",
 "applyColor": "ffffff",
 "applyEffect": "freezing",
+"damage": 10,
 "opposites": [
   "melting"
 ],
