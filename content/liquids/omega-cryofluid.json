@@ -1,3 +1,4 @@
+}
 "name": "Omega Cryofluid",
 "description": "Omega Cryofluid is a very cold liquid, creatin by cooling Cryofluid in omega cooler",
 "color": "ffffff",
@@ -10,4 +11,7 @@
 "explosiveness": 0.0,
 "coolant": true,
 "research": "cryofluid",
-"effects": "freezing"
+"effects": "freezing",
+"particleEffect": "freezing",
+"heatCapacity": 10
+}
