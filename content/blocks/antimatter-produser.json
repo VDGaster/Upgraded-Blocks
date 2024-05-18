@@ -8,7 +8,6 @@
   "consumes":[
     "power":20,
     "items":[
-      {"item":"pyrotite","amount":20},
       {"item":"coal","amount":50},
       {"item":"metaglass","amount":15}
     ],
