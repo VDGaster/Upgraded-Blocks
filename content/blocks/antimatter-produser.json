@@ -1,0 +1,19 @@
+{
+  "name":"Antimatter Produser",
+  "type":"genericCrafter",
+  "description":"Makes Antimatter",
+  "hasLiquid": true,
+  "hasPower": true,
+  "hasItems": true,
+  "consumes":[
+    "power":20,
+    "items":[
+      "pyrotite/20",
+      "coal/50",
+      "metaglass/15"
+    ],
+    "liquid":{"omega-cryofluid/6"}
+  ],
+  "outputLiquid":{"water/6"},
+  "outputItem":{"antimatter/1"}
+}
