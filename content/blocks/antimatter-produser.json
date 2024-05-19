@@ -7,10 +7,10 @@
   "hasItems": true,
   "consumes":{
     "power": 20,
-    "items":{[
+    "items":{
       {"item":"coal","amount":50},
       {"item":"metaglass","amount":15}
-    ]},
+    },
     "liquid":{"liquid":"omega-cryofluid","amount":6}
   },
   "outputLiquid":{"liquid":"water","amount":6},
