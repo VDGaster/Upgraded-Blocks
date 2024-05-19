@@ -4,15 +4,18 @@
   "description":"Makes Antimatter",
   "hasLiquid": true,
   "hasPower": true,
-  "hasItems": true,
+  "itemCapacity": 50,
+  "craftTime": 600,
   "consumes":{
     "power": 20,
     "items":{
+"items":[
       {"item":"coal","amount":50},
-      {"item":"metaglass","amount":15}
+      {"item":"metaglass","amount":15}]
     },
     "liquid":{"liquid":"omega-cryofluid","amount":6}
   },
   "outputLiquid":{"liquid":"water","amount":6},
-  "outputItem":{"item":"antimatter","amount":1}
+  "outputItem":{"item":"antimatter","amount":1},
+"category":"crafting"
 }
