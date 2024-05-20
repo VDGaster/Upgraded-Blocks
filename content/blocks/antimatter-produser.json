@@ -17,5 +17,5 @@
   },
   "outputLiquid":{"liquid":"water","amount":6},
   "outputItem":{"item":"antimatter","amount":1},
-"category":"production"
+"category":"crafting"
 }
